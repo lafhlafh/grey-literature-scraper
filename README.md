@@ -144,3 +144,12 @@ Developed as part of a PhD project funded by the Wellcome Trust (WT reference co
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you use this software in your research, please cite it as:
+
+Hookham L. (2025). Grey Literature Scraper (Version 1.0) [Software]. https://github.com/lafhlafh/grey-literature-scraper
+
+A formal publication describing this tool is forthcoming via JOSS. 
+
