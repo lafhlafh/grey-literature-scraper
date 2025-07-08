@@ -1,0 +1,27 @@
+name: Build JOSS paper
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Compile JOSS paper to PDF
+        uses: openjournals/inara@v0.0.5
+        with:
+          path: './'
+          paper: 'JOSS_paper.md'
+
+      - name: Upload compiled PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: paper-pdf
+          path: paper.pdf
+
