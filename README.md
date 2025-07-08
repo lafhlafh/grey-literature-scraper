@@ -4,7 +4,7 @@ A lightweight, modular Python tool for retrieving grey literature from Ministry 
 
 ## Background
 
-Grey literature—including Ministry of Health reports, policy briefs, and surveillance data—is an essential source of information in systematic reviews. This is especially true in global health and LMIC settings, where critical data may not be published in academic journals or indexed in databases like PubMed.
+Grey literature, including Ministry of Health reports, policy briefs, and surveillance data, is an essential source of information in systematic reviews. This is especially true in global health and LMIC settings, where critical data may not be published in academic journals or indexed in databases like PubMed.
 
 Manually identifying grey literature from government websites and Google Scholar can be time-consuming, inconsistent, and difficult to reproduce.
 
