@@ -151,5 +151,5 @@ If you use this software in your research, please cite it as:
 
 Hookham L. (2025). Grey Literature Scraper (Version 1.0) [Software]. https://github.com/lafhlafh/grey-literature-scraper
 
-A formal publication describing this tool is forthcoming via JOSS. 
+A formal publication describing this tool is under review at JOSS. 
 
