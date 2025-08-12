@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "grey-literature-scraper"
+version: "1.0.0"
+doi: "10.5281/zenodo.16813899"
+date-released: 2025-08-12
+authors:
+  - family-names: "Hookham"
+    given-names: "Lauren"
+    orcid: "https://orcid.org/0000-0001-9703-655X"  
+abstract: >
+  A lightweight, open-source web scraping tool for retrieving grey literature 
+  from Ministry of Health websites and Google Scholar. Designed for systematic 
+  reviews and research workflows where traditional database searches are insufficient.
+license: "MIT"
+repository-code: "https://github.com/lafhlafh/grey-literature-scraper"
+url: "https://doi.org/10.5281/zenodo.16813899"
+keywords:
+  - grey literature
+  - web scraping
+  - systematic review
+  - Ministry of Health
+  - Google Scholar
