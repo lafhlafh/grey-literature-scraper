@@ -147,9 +147,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Citation
 
-If you use this software in your research, please cite it as:
 
-Hookham L. (2025). Grey Literature Scraper (Version 1.0) [Software]. https://github.com/lafhlafh/grey-literature-scraper
+Please cite this software as:
 
-A formal publication describing this tool is under review at JOSS. 
+lafhlafh. (2025). lafhlafh/grey-literature-scraper: Initial public release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16813899
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16813899.svg)](https://doi.org/10.5281/zenodo.16813899)
+
 
