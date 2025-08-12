@@ -1,5 +1,8 @@
 # Grey Literature Scraper
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16813899.svg)](https://doi.org/10.5281/zenodo.16813899)
+
+
 A lightweight, modular Python tool for retrieving grey literature from Ministry of Health websites and Google Scholar. Developed to support systematic reviews in global health, especially in low- and middle-income countries (LMICs), where key data often reside in grey literature rather than academic databases.
 
 ## Background
